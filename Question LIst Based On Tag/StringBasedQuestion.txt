@@ -1,0 +1,48 @@
+1) How to find the maximum occurring character in given String?
+
+2) How to remove all duplicates from a given string?
+
+3) How to print the duplicate characters from the given String?
+	Write an efficient Java program to return the duplicate characters from given String,
+	for example if given String is "C++" then your program should print "+" 
+	Similarly, if input is "Java and JavaScript" then your program should print "J", "a" and "v". 
+	You can ignore the case for finding duplicates.
+
+4) How to remove characters from the first String which are present in the second String? 
+
+5) How to check if two strings are rotations of each other?
+
+6) How to reverse a given String?
+
+7) How to reverse String without recursion?
+
+8) How to print all permutation of a String?
+
+9) How to find the first non-repeating character in a given String?
+
+10) How to reverse the words in a given String sentence?
+
+11) How to find the smallest substring in a given string containing all characters of another string? 
+
+12) How to check if two given String is the anagram of each other?
+
+13) How do you check if a given String is Palindrome or not?
+
+14) How do you convert String to integer?
+
+15) How do you convert a Roman numeral String to Integer in Java?
+
+17) How do you remove a given character from String?
+
+18) How do you count a number of words in String?
+
+19) How do you check if a given string contains valid parentheses?
+
+20) How do you find the longest palindromic substring of a given substring?
+
+Read more: https://www.java67.com/2018/04/21-string-programming-and-coding-interview-questions-answers.html#ixzz6cjRxPSwI
+
+21) How to convert Integer to Roman String?
+
+Read more: https://www.java67.com/2018/04/21-string-programming-and-coding-interview-questions-answers.html#ixzz6cjS02yOl
+
